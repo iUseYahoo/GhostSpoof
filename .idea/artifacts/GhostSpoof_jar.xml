@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GhostSpoof:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GhostSpoof_jar</output-path>
+    <root id="archive" name="GhostSpoof.jar">
+      <element id="module-output" name="GhostSpoof" />
+    </root>
+  </artifact>
+</component>
